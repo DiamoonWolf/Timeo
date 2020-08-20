@@ -26,6 +26,7 @@ Browse to the **config.json** file to enter :
 </ul>
 
 config.json file:
+
 <img src="https://i.imgur.com/H3Ps5rU.png" />
 
 ## 📷 Media
